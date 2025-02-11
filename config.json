@@ -7,19 +7,19 @@
     "retry": 5,
     "domains": [
         {
-            "domain": "url",
+            "domain": "https://ikuuu.one/",
             "proxy": true,
             "param": {
-                "email": "email",
-                "passwd": "password"
+                "email": "YW1vemFvQHFxLmNvbQ==",
+                "passwd": "enR3eXgxNTAyMjAw"
             }
         },
         {
-            "domain": "url",
+            "domain": "https://ikuuu.one/",
             "proxy": true,
             "param": {
-                "email": "email",
-                "passwd": "password"
+                "email": "emh1dGFvMTk5MjEyMDdAZ21haWwuY29t",
+                "passwd": "enQxNTAyMjAw"
             }
         }
     ]
